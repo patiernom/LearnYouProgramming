@@ -5,6 +5,7 @@ A library of useful links to start programming
 - https://www.codecademy.com/
 - https://www.freecodecamp.org/
 - https://www.codewars.com/
+- https://nodeschool.io/
 
 ## Books
 ##### Basic
@@ -18,6 +19,7 @@ A library of useful links to start programming
 - You Don’t Know JS: Up and Going by Kyle Simpson - https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going
 
 ### Video Tutorial 
+- Programming Foundations: Fundamentals - https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3afoundations+of+programming%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
 - Javascript Tutorial For Beginners - https://www.youtube.com/playlist?list=PLoYCgNOIyGACnrXwo5HMCfOH9VT05znGv
 - Javascript is Weird...and AWESOME - https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_
 - Modular Javascript - https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
